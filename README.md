@@ -5,6 +5,4 @@ Added from github.com
 
 This is added again via github
 
-
-
-This is added locally. 
+This is added locally. Added a line remotely.
